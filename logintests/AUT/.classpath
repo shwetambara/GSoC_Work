@@ -43,5 +43,6 @@
 	<classpathentry kind="lib" path="/home/shwetambara/selenium-2.42.2/libs/xml-apis-1.4.01.jar"/>
 	<classpathentry kind="lib" path="/home/shwetambara/selenium-2.42.2/selenium-java-2.42.2.jar"/>
 	<classpathentry kind="lib" path="/home/shwetambara/selenium-2.42.2/selenium-java-2.42.2-srcs.jar"/>
+	<classpathentry kind="lib" path="/usr/share/ant"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

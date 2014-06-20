@@ -13,10 +13,10 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.Select;
 
 public class Test1 {
-  private WebDriver driver;
-  private String baseUrl;
-  private boolean acceptNextAlert = true;
-  private StringBuffer verificationErrors = new StringBuffer();
+  protected WebDriver driver;
+  protected String baseUrl;
+  protected boolean acceptNextAlert = true;
+  protected StringBuffer verificationErrors = new StringBuffer();
 
   @Before
   public void setUp() throws Exception {
